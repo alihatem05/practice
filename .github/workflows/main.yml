@@ -1,0 +1,8 @@
+name: todo CI
+
+on:
+    push:
+
+jobs:
+    test:
+        
